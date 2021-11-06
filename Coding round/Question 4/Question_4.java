@@ -1,5 +1,6 @@
-import java.util.*;
+//Done using string array for mapping 
 
+import java.util.*;
 
 public class Question_4 {
     public static List<String> letterCombinations(String digits){
